@@ -1,0 +1,14 @@
+C:\Users\Oscar\source\repos\ProgramaTiendaRegalos\bin\Debug\net8.0\ProgramaTiendaRegalos.exe
+C:\Users\Oscar\source\repos\ProgramaTiendaRegalos\bin\Debug\net8.0\ProgramaTiendaRegalos.deps.json
+C:\Users\Oscar\source\repos\ProgramaTiendaRegalos\bin\Debug\net8.0\ProgramaTiendaRegalos.runtimeconfig.json
+C:\Users\Oscar\source\repos\ProgramaTiendaRegalos\bin\Debug\net8.0\ProgramaTiendaRegalos.dll
+C:\Users\Oscar\source\repos\ProgramaTiendaRegalos\bin\Debug\net8.0\ProgramaTiendaRegalos.pdb
+C:\Users\Oscar\source\repos\ProgramaTiendaRegalos\obj\Debug\net8.0\ProgramaTiendaRegalos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar\source\repos\ProgramaTiendaRegalos\obj\Debug\net8.0\ProgramaTiendaRegalos.AssemblyInfoInputs.cache
+C:\Users\Oscar\source\repos\ProgramaTiendaRegalos\obj\Debug\net8.0\ProgramaTiendaRegalos.AssemblyInfo.cs
+C:\Users\Oscar\source\repos\ProgramaTiendaRegalos\obj\Debug\net8.0\ProgramaTiendaRegalos.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\source\repos\ProgramaTiendaRegalos\obj\Debug\net8.0\ProgramaTiendaRegalos.dll
+C:\Users\Oscar\source\repos\ProgramaTiendaRegalos\obj\Debug\net8.0\refint\ProgramaTiendaRegalos.dll
+C:\Users\Oscar\source\repos\ProgramaTiendaRegalos\obj\Debug\net8.0\ProgramaTiendaRegalos.pdb
+C:\Users\Oscar\source\repos\ProgramaTiendaRegalos\obj\Debug\net8.0\ProgramaTiendaRegalos.genruntimeconfig.cache
+C:\Users\Oscar\source\repos\ProgramaTiendaRegalos\obj\Debug\net8.0\ref\ProgramaTiendaRegalos.dll

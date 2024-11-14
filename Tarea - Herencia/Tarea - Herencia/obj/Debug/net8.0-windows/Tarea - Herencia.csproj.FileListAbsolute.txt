@@ -1,0 +1,18 @@
+C:\Users\Oscar\source\repos\Tarea - Herencia\Tarea - Herencia\bin\Debug\net8.0-windows\Tarea - Herencia.exe
+C:\Users\Oscar\source\repos\Tarea - Herencia\Tarea - Herencia\bin\Debug\net8.0-windows\Tarea - Herencia.deps.json
+C:\Users\Oscar\source\repos\Tarea - Herencia\Tarea - Herencia\bin\Debug\net8.0-windows\Tarea - Herencia.runtimeconfig.json
+C:\Users\Oscar\source\repos\Tarea - Herencia\Tarea - Herencia\bin\Debug\net8.0-windows\Tarea - Herencia.dll
+C:\Users\Oscar\source\repos\Tarea - Herencia\Tarea - Herencia\bin\Debug\net8.0-windows\Tarea - Herencia.pdb
+C:\Users\Oscar\source\repos\Tarea - Herencia\Tarea - Herencia\obj\Debug\net8.0-windows\Tarea___Herencia.Form1.resources
+C:\Users\Oscar\source\repos\Tarea - Herencia\Tarea - Herencia\obj\Debug\net8.0-windows\Tarea___Herencia.Form2.resources
+C:\Users\Oscar\source\repos\Tarea - Herencia\Tarea - Herencia\obj\Debug\net8.0-windows\Tarea___Herencia.Form3.resources
+C:\Users\Oscar\source\repos\Tarea - Herencia\Tarea - Herencia\obj\Debug\net8.0-windows\Tarea - Herencia.csproj.GenerateResource.cache
+C:\Users\Oscar\source\repos\Tarea - Herencia\Tarea - Herencia\obj\Debug\net8.0-windows\Tarea - Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar\source\repos\Tarea - Herencia\Tarea - Herencia\obj\Debug\net8.0-windows\Tarea - Herencia.AssemblyInfoInputs.cache
+C:\Users\Oscar\source\repos\Tarea - Herencia\Tarea - Herencia\obj\Debug\net8.0-windows\Tarea - Herencia.AssemblyInfo.cs
+C:\Users\Oscar\source\repos\Tarea - Herencia\Tarea - Herencia\obj\Debug\net8.0-windows\Tarea - Herencia.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\source\repos\Tarea - Herencia\Tarea - Herencia\obj\Debug\net8.0-windows\Tarea - Herencia.dll
+C:\Users\Oscar\source\repos\Tarea - Herencia\Tarea - Herencia\obj\Debug\net8.0-windows\refint\Tarea - Herencia.dll
+C:\Users\Oscar\source\repos\Tarea - Herencia\Tarea - Herencia\obj\Debug\net8.0-windows\Tarea - Herencia.pdb
+C:\Users\Oscar\source\repos\Tarea - Herencia\Tarea - Herencia\obj\Debug\net8.0-windows\Tarea - Herencia.genruntimeconfig.cache
+C:\Users\Oscar\source\repos\Tarea - Herencia\Tarea - Herencia\obj\Debug\net8.0-windows\ref\Tarea - Herencia.dll

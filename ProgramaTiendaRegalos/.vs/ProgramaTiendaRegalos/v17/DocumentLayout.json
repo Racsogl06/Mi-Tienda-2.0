@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oscar\\source\\repos\\ProgramaTiendaRegalos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{223B7355-47D3-4E9E-84B9-726A9D6B22E4}|..\\TiendaRegalosTests\\TiendaRegalosTests.csproj|c:\\users\\oscar\\source\\repos\\tiendaregalostests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240B7F55-AF26-45F8-8306-EDDDCE5615AB}|ProgramaTiendaRegalos.csproj|c:\\users\\oscar\\source\\repos\\programatiendaregalos\\historialtransacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240B7F55-AF26-45F8-8306-EDDDCE5615AB}|ProgramaTiendaRegalos.csproj|solutionrelative:historialtransacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240B7F55-AF26-45F8-8306-EDDDCE5615AB}|ProgramaTiendaRegalos.csproj|c:\\users\\oscar\\source\\repos\\programatiendaregalos\\transaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240B7F55-AF26-45F8-8306-EDDDCE5615AB}|ProgramaTiendaRegalos.csproj|solutionrelative:transaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240B7F55-AF26-45F8-8306-EDDDCE5615AB}|ProgramaTiendaRegalos.csproj|c:\\users\\oscar\\source\\repos\\programatiendaregalos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240B7F55-AF26-45F8-8306-EDDDCE5615AB}|ProgramaTiendaRegalos.csproj|solutionrelative:producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240B7F55-AF26-45F8-8306-EDDDCE5615AB}|ProgramaTiendaRegalos.csproj|c:\\users\\oscar\\source\\repos\\programatiendaregalos\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240B7F55-AF26-45F8-8306-EDDDCE5615AB}|ProgramaTiendaRegalos.csproj|solutionrelative:inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240B7F55-AF26-45F8-8306-EDDDCE5615AB}|ProgramaTiendaRegalos.csproj|c:\\users\\oscar\\source\\repos\\programatiendaregalos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240B7F55-AF26-45F8-8306-EDDDCE5615AB}|ProgramaTiendaRegalos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240B7F55-AF26-45F8-8306-EDDDCE5615AB}|ProgramaTiendaRegalos.csproj|c:\\users\\oscar\\source\\repos\\programatiendaregalos\\carritocompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240B7F55-AF26-45F8-8306-EDDDCE5615AB}|ProgramaTiendaRegalos.csproj|solutionrelative:carritocompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar\\source\\repos\\TiendaRegalosTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\TiendaRegalosTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Oscar\\source\\repos\\TiendaRegalosTests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\TiendaRegalosTests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T22:19:20.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HistorialTransacciones.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar\\source\\repos\\ProgramaTiendaRegalos\\HistorialTransacciones.cs",
+              "RelativeDocumentMoniker": "HistorialTransacciones.cs",
+              "ToolTip": "C:\\Users\\Oscar\\source\\repos\\ProgramaTiendaRegalos\\HistorialTransacciones.cs",
+              "RelativeToolTip": "HistorialTransacciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T22:10:27.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Transaccion.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar\\source\\repos\\ProgramaTiendaRegalos\\Transaccion.cs",
+              "RelativeDocumentMoniker": "Transaccion.cs",
+              "ToolTip": "C:\\Users\\Oscar\\source\\repos\\ProgramaTiendaRegalos\\Transaccion.cs",
+              "RelativeToolTip": "Transaccion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T22:09:32.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar\\source\\repos\\ProgramaTiendaRegalos\\Producto.cs",
+              "RelativeDocumentMoniker": "Producto.cs",
+              "ToolTip": "C:\\Users\\Oscar\\source\\repos\\ProgramaTiendaRegalos\\Producto.cs",
+              "RelativeToolTip": "Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T22:08:19.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar\\source\\repos\\ProgramaTiendaRegalos\\Inventario.cs",
+              "RelativeDocumentMoniker": "Inventario.cs",
+              "ToolTip": "C:\\Users\\Oscar\\source\\repos\\ProgramaTiendaRegalos\\Inventario.cs",
+              "RelativeToolTip": "Inventario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T22:08:43.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar\\source\\repos\\ProgramaTiendaRegalos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Oscar\\source\\repos\\ProgramaTiendaRegalos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T22:07:06.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarritoCompra.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar\\source\\repos\\ProgramaTiendaRegalos\\CarritoCompra.cs",
+              "RelativeDocumentMoniker": "CarritoCompra.cs",
+              "ToolTip": "C:\\Users\\Oscar\\source\\repos\\ProgramaTiendaRegalos\\CarritoCompra.cs",
+              "RelativeToolTip": "CarritoCompra.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T22:09:00.972Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

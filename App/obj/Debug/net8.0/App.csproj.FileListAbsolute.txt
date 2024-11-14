@@ -1,0 +1,6 @@
+C:\Users\Oscar\source\repos\App\obj\Debug\net8.0\App.Form1.resources
+C:\Users\Oscar\source\repos\App\obj\Debug\net8.0\App.csproj.GenerateResource.cache
+C:\Users\Oscar\source\repos\App\obj\Debug\net8.0\App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar\source\repos\App\obj\Debug\net8.0\App.AssemblyInfoInputs.cache
+C:\Users\Oscar\source\repos\App\obj\Debug\net8.0\App.AssemblyInfo.cs
+C:\Users\Oscar\source\repos\App\obj\Debug\net8.0\App.csproj.CoreCompileInputs.cache

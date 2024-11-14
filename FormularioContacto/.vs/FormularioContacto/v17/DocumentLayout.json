@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oscar\\source\\repos\\FormularioContacto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{417791B2-9855-4FC8-8BC9-EDC559F9BB52}|FormularioContacto\\FormularioContacto.csproj|c:\\users\\oscar\\source\\repos\\formulariocontacto\\formulariocontacto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{417791B2-9855-4FC8-8BC9-EDC559F9BB52}|FormularioContacto\\FormularioContacto.csproj|solutionrelative:formulariocontacto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417791B2-9855-4FC8-8BC9-EDC559F9BB52}|FormularioContacto\\FormularioContacto.csproj|c:\\users\\oscar\\source\\repos\\formulariocontacto\\formulariocontacto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417791B2-9855-4FC8-8BC9-EDC559F9BB52}|FormularioContacto\\FormularioContacto.csproj|solutionrelative:formulariocontacto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar\\source\\repos\\FormularioContacto\\FormularioContacto\\Form1.cs",
+              "RelativeDocumentMoniker": "FormularioContacto\\Form1.cs",
+              "ToolTip": "C:\\Users\\Oscar\\source\\repos\\FormularioContacto\\FormularioContacto\\Form1.cs",
+              "RelativeToolTip": "FormularioContacto\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T13:28:54.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Oscar\\source\\repos\\FormularioContacto\\FormularioContacto\\Form1.cs",
+              "RelativeDocumentMoniker": "FormularioContacto\\Form1.cs",
+              "ToolTip": "C:\\Users\\Oscar\\source\\repos\\FormularioContacto\\FormularioContacto\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormularioContacto\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T13:24:50.356Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

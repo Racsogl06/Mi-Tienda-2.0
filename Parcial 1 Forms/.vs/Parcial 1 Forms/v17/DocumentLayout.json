@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oscar\\source\\repos\\Parcial 1 Forms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4264C9BB-4DDC-4BBE-BEA7-56A110AA3797}|Parcial 1 Forms\\Parcial 1 Forms.csproj|c:\\users\\oscar\\source\\repos\\parcial 1 forms\\parcial 1 forms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4264C9BB-4DDC-4BBE-BEA7-56A110AA3797}|Parcial 1 Forms\\Parcial 1 Forms.csproj|solutionrelative:parcial 1 forms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4264C9BB-4DDC-4BBE-BEA7-56A110AA3797}|Parcial 1 Forms\\Parcial 1 Forms.csproj|c:\\users\\oscar\\source\\repos\\parcial 1 forms\\parcial 1 forms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4264C9BB-4DDC-4BBE-BEA7-56A110AA3797}|Parcial 1 Forms\\Parcial 1 Forms.csproj|solutionrelative:parcial 1 forms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4264C9BB-4DDC-4BBE-BEA7-56A110AA3797}|Parcial 1 Forms\\Parcial 1 Forms.csproj|C:\\Users\\Oscar\\source\\repos\\Parcial 1 Forms\\parcial 1 forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4264C9BB-4DDC-4BBE-BEA7-56A110AA3797}|Parcial 1 Forms\\Parcial 1 Forms.csproj|solutionrelative:parcial 1 forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar\\source\\repos\\Parcial 1 Forms\\Parcial 1 Forms\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Parcial 1 Forms\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Oscar\\source\\repos\\Parcial 1 Forms\\Parcial 1 Forms\\Form1.Designer.cs",
+              "RelativeToolTip": "Parcial 1 Forms\\Form1.Designer.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T21:36:45.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar\\source\\repos\\Parcial 1 Forms\\Parcial 1 Forms\\Program.cs",
+              "RelativeDocumentMoniker": "Parcial 1 Forms\\Program.cs",
+              "ToolTip": "C:\\Users\\Oscar\\source\\repos\\Parcial 1 Forms\\Parcial 1 Forms\\Program.cs",
+              "RelativeToolTip": "Parcial 1 Forms\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T21:33:36.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Oscar\\source\\repos\\Parcial 1 Forms\\Parcial 1 Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "Parcial 1 Forms\\Form1.cs",
+              "ToolTip": "C:\\Users\\Oscar\\source\\repos\\Parcial 1 Forms\\Parcial 1 Forms\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Parcial 1 Forms\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T21:33:12.018Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\Oscar\source\repos\POSApp\bin\Debug\net8.0-windows\POSApp.exe
+C:\Users\Oscar\source\repos\POSApp\bin\Debug\net8.0-windows\POSApp.deps.json
+C:\Users\Oscar\source\repos\POSApp\bin\Debug\net8.0-windows\POSApp.runtimeconfig.json
+C:\Users\Oscar\source\repos\POSApp\bin\Debug\net8.0-windows\POSApp.dll
+C:\Users\Oscar\source\repos\POSApp\bin\Debug\net8.0-windows\POSApp.pdb
+C:\Users\Oscar\source\repos\POSApp\obj\Debug\net8.0-windows\POSApp.Facturacion.resources
+C:\Users\Oscar\source\repos\POSApp\obj\Debug\net8.0-windows\POSApp.Ventas.resources
+C:\Users\Oscar\source\repos\POSApp\obj\Debug\net8.0-windows\POSApp.csproj.GenerateResource.cache
+C:\Users\Oscar\source\repos\POSApp\obj\Debug\net8.0-windows\POSApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar\source\repos\POSApp\obj\Debug\net8.0-windows\POSApp.AssemblyInfoInputs.cache
+C:\Users\Oscar\source\repos\POSApp\obj\Debug\net8.0-windows\POSApp.AssemblyInfo.cs
+C:\Users\Oscar\source\repos\POSApp\obj\Debug\net8.0-windows\POSApp.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\source\repos\POSApp\obj\Debug\net8.0-windows\POSApp.dll
+C:\Users\Oscar\source\repos\POSApp\obj\Debug\net8.0-windows\refint\POSApp.dll
+C:\Users\Oscar\source\repos\POSApp\obj\Debug\net8.0-windows\POSApp.pdb
+C:\Users\Oscar\source\repos\POSApp\obj\Debug\net8.0-windows\POSApp.genruntimeconfig.cache
+C:\Users\Oscar\source\repos\POSApp\obj\Debug\net8.0-windows\ref\POSApp.dll

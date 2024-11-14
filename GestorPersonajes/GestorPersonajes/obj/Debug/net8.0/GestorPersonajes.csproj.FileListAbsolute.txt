@@ -1,0 +1,14 @@
+C:\Users\Oscar\source\repos\GestorPersonajes\GestorPersonajes\bin\Debug\net8.0\GestorPersonajes.exe
+C:\Users\Oscar\source\repos\GestorPersonajes\GestorPersonajes\bin\Debug\net8.0\GestorPersonajes.deps.json
+C:\Users\Oscar\source\repos\GestorPersonajes\GestorPersonajes\bin\Debug\net8.0\GestorPersonajes.runtimeconfig.json
+C:\Users\Oscar\source\repos\GestorPersonajes\GestorPersonajes\bin\Debug\net8.0\GestorPersonajes.dll
+C:\Users\Oscar\source\repos\GestorPersonajes\GestorPersonajes\bin\Debug\net8.0\GestorPersonajes.pdb
+C:\Users\Oscar\source\repos\GestorPersonajes\GestorPersonajes\obj\Debug\net8.0\GestorPersonajes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar\source\repos\GestorPersonajes\GestorPersonajes\obj\Debug\net8.0\GestorPersonajes.AssemblyInfoInputs.cache
+C:\Users\Oscar\source\repos\GestorPersonajes\GestorPersonajes\obj\Debug\net8.0\GestorPersonajes.AssemblyInfo.cs
+C:\Users\Oscar\source\repos\GestorPersonajes\GestorPersonajes\obj\Debug\net8.0\GestorPersonajes.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\source\repos\GestorPersonajes\GestorPersonajes\obj\Debug\net8.0\GestorPersonajes.dll
+C:\Users\Oscar\source\repos\GestorPersonajes\GestorPersonajes\obj\Debug\net8.0\refint\GestorPersonajes.dll
+C:\Users\Oscar\source\repos\GestorPersonajes\GestorPersonajes\obj\Debug\net8.0\GestorPersonajes.pdb
+C:\Users\Oscar\source\repos\GestorPersonajes\GestorPersonajes\obj\Debug\net8.0\GestorPersonajes.genruntimeconfig.cache
+C:\Users\Oscar\source\repos\GestorPersonajes\GestorPersonajes\obj\Debug\net8.0\ref\GestorPersonajes.dll

@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oscar\\source\\repos\\Tarea - Herencia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{297841D5-C21B-459A-9165-3B8430C581B0}|Tarea - Herencia\\Tarea - Herencia.csproj|c:\\users\\oscar\\source\\repos\\tarea - herencia\\tarea - herencia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297841D5-C21B-459A-9165-3B8430C581B0}|Tarea - Herencia\\Tarea - Herencia.csproj|solutionrelative:tarea - herencia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297841D5-C21B-459A-9165-3B8430C581B0}|Tarea - Herencia\\Tarea - Herencia.csproj|c:\\users\\oscar\\source\\repos\\tarea - herencia\\tarea - herencia\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297841D5-C21B-459A-9165-3B8430C581B0}|Tarea - Herencia\\Tarea - Herencia.csproj|solutionrelative:tarea - herencia\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297841D5-C21B-459A-9165-3B8430C581B0}|Tarea - Herencia\\Tarea - Herencia.csproj|c:\\users\\oscar\\source\\repos\\tarea - herencia\\tarea - herencia\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297841D5-C21B-459A-9165-3B8430C581B0}|Tarea - Herencia\\Tarea - Herencia.csproj|solutionrelative:tarea - herencia\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297841D5-C21B-459A-9165-3B8430C581B0}|Tarea - Herencia\\Tarea - Herencia.csproj|c:\\users\\oscar\\source\\repos\\tarea - herencia\\tarea - herencia\\librofisico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297841D5-C21B-459A-9165-3B8430C581B0}|Tarea - Herencia\\Tarea - Herencia.csproj|solutionrelative:tarea - herencia\\librofisico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297841D5-C21B-459A-9165-3B8430C581B0}|Tarea - Herencia\\Tarea - Herencia.csproj|c:\\users\\oscar\\source\\repos\\tarea - herencia\\tarea - herencia\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297841D5-C21B-459A-9165-3B8430C581B0}|Tarea - Herencia\\Tarea - Herencia.csproj|solutionrelative:tarea - herencia\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297841D5-C21B-459A-9165-3B8430C581B0}|Tarea - Herencia\\Tarea - Herencia.csproj|c:\\users\\oscar\\source\\repos\\tarea - herencia\\tarea - herencia\\libroelectronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297841D5-C21B-459A-9165-3B8430C581B0}|Tarea - Herencia\\Tarea - Herencia.csproj|solutionrelative:tarea - herencia\\libroelectronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297841D5-C21B-459A-9165-3B8430C581B0}|Tarea - Herencia\\Tarea - Herencia.csproj|c:\\users\\oscar\\source\\repos\\tarea - herencia\\tarea - herencia\\miembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297841D5-C21B-459A-9165-3B8430C581B0}|Tarea - Herencia\\Tarea - Herencia.csproj|solutionrelative:tarea - herencia\\miembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297841D5-C21B-459A-9165-3B8430C581B0}|Tarea - Herencia\\Tarea - Herencia.csproj|c:\\users\\oscar\\source\\repos\\tarea - herencia\\tarea - herencia\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297841D5-C21B-459A-9165-3B8430C581B0}|Tarea - Herencia\\Tarea - Herencia.csproj|solutionrelative:tarea - herencia\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297841D5-C21B-459A-9165-3B8430C581B0}|Tarea - Herencia\\Tarea - Herencia.csproj|c:\\users\\oscar\\source\\repos\\tarea - herencia\\tarea - herencia\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297841D5-C21B-459A-9165-3B8430C581B0}|Tarea - Herencia\\Tarea - Herencia.csproj|solutionrelative:tarea - herencia\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297841D5-C21B-459A-9165-3B8430C581B0}|Tarea - Herencia\\Tarea - Herencia.csproj|C:\\Users\\Oscar\\source\\repos\\Tarea - Herencia\\tarea - herencia\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{297841D5-C21B-459A-9165-3B8430C581B0}|Tarea - Herencia\\Tarea - Herencia.csproj|solutionrelative:tarea - herencia\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297841D5-C21B-459A-9165-3B8430C581B0}|Tarea - Herencia\\Tarea - Herencia.csproj|C:\\Users\\Oscar\\source\\repos\\Tarea - Herencia\\tarea - herencia\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{297841D5-C21B-459A-9165-3B8430C581B0}|Tarea - Herencia\\Tarea - Herencia.csproj|solutionrelative:tarea - herencia\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar\\source\\repos\\Tarea - Herencia\\Tarea - Herencia\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "Tarea - Herencia\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\Oscar\\source\\repos\\Tarea - Herencia\\Tarea - Herencia\\Form2.Designer.cs",
+              "RelativeToolTip": "Tarea - Herencia\\Form2.Designer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T16:21:01.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar\\source\\repos\\Tarea - Herencia\\Tarea - Herencia\\Form1.cs",
+              "RelativeDocumentMoniker": "Tarea - Herencia\\Form1.cs",
+              "ToolTip": "C:\\Users\\Oscar\\source\\repos\\Tarea - Herencia\\Tarea - Herencia\\Form1.cs",
+              "RelativeToolTip": "Tarea - Herencia\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T22:28:54.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibroFisico.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar\\source\\repos\\Tarea - Herencia\\Tarea - Herencia\\LibroFisico.cs",
+              "RelativeDocumentMoniker": "Tarea - Herencia\\LibroFisico.cs",
+              "ToolTip": "C:\\Users\\Oscar\\source\\repos\\Tarea - Herencia\\Tarea - Herencia\\LibroFisico.cs",
+              "RelativeToolTip": "Tarea - Herencia\\LibroFisico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T22:51:49.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibroElectronico.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar\\source\\repos\\Tarea - Herencia\\Tarea - Herencia\\LibroElectronico.cs",
+              "RelativeDocumentMoniker": "Tarea - Herencia\\LibroElectronico.cs",
+              "ToolTip": "C:\\Users\\Oscar\\source\\repos\\Tarea - Herencia\\Tarea - Herencia\\LibroElectronico.cs",
+              "RelativeToolTip": "Tarea - Herencia\\LibroElectronico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T22:52:27.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Prestamo.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar\\source\\repos\\Tarea - Herencia\\Tarea - Herencia\\Prestamo.cs",
+              "RelativeDocumentMoniker": "Tarea - Herencia\\Prestamo.cs",
+              "ToolTip": "C:\\Users\\Oscar\\source\\repos\\Tarea - Herencia\\Tarea - Herencia\\Prestamo.cs",
+              "RelativeToolTip": "Tarea - Herencia\\Prestamo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T22:55:25.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar\\source\\repos\\Tarea - Herencia\\Tarea - Herencia\\Form3.cs",
+              "RelativeDocumentMoniker": "Tarea - Herencia\\Form3.cs",
+              "ToolTip": "C:\\Users\\Oscar\\source\\repos\\Tarea - Herencia\\Tarea - Herencia\\Form3.cs",
+              "RelativeToolTip": "Tarea - Herencia\\Form3.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T22:31:24.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar\\source\\repos\\Tarea - Herencia\\Tarea - Herencia\\Form2.cs",
+              "RelativeDocumentMoniker": "Tarea - Herencia\\Form2.cs",
+              "ToolTip": "C:\\Users\\Oscar\\source\\repos\\Tarea - Herencia\\Tarea - Herencia\\Form2.cs",
+              "RelativeToolTip": "Tarea - Herencia\\Form2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T22:30:38.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar\\source\\repos\\Tarea - Herencia\\Tarea - Herencia\\Libro.cs",
+              "RelativeDocumentMoniker": "Tarea - Herencia\\Libro.cs",
+              "ToolTip": "C:\\Users\\Oscar\\source\\repos\\Tarea - Herencia\\Tarea - Herencia\\Libro.cs",
+              "RelativeToolTip": "Tarea - Herencia\\Libro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T22:50:41.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Miembro.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar\\source\\repos\\Tarea - Herencia\\Tarea - Herencia\\Miembro.cs",
+              "RelativeDocumentMoniker": "Tarea - Herencia\\Miembro.cs",
+              "ToolTip": "C:\\Users\\Oscar\\source\\repos\\Tarea - Herencia\\Tarea - Herencia\\Miembro.cs",
+              "RelativeToolTip": "Tarea - Herencia\\Miembro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T22:54:56.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Oscar\\source\\repos\\Tarea - Herencia\\Tarea - Herencia\\Form3.cs",
+              "RelativeDocumentMoniker": "Tarea - Herencia\\Form3.cs",
+              "ToolTip": "C:\\Users\\Oscar\\source\\repos\\Tarea - Herencia\\Tarea - Herencia\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Tarea - Herencia\\Form3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T22:23:50.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Oscar\\source\\repos\\Tarea - Herencia\\Tarea - Herencia\\Form2.cs",
+              "RelativeDocumentMoniker": "Tarea - Herencia\\Form2.cs",
+              "ToolTip": "C:\\Users\\Oscar\\source\\repos\\Tarea - Herencia\\Tarea - Herencia\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Tarea - Herencia\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T22:15:02.674Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

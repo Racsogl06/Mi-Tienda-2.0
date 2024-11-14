@@ -1,0 +1,17 @@
+C:\Users\Oscar\source\repos\FormParcial\FormParcial\bin\Debug\net8.0-windows\FormParcial.exe
+C:\Users\Oscar\source\repos\FormParcial\FormParcial\bin\Debug\net8.0-windows\FormParcial.deps.json
+C:\Users\Oscar\source\repos\FormParcial\FormParcial\bin\Debug\net8.0-windows\FormParcial.runtimeconfig.json
+C:\Users\Oscar\source\repos\FormParcial\FormParcial\bin\Debug\net8.0-windows\FormParcial.dll
+C:\Users\Oscar\source\repos\FormParcial\FormParcial\bin\Debug\net8.0-windows\FormParcial.pdb
+C:\Users\Oscar\source\repos\FormParcial\FormParcial\obj\Debug\net8.0-windows\FormParcial.Form1.resources
+C:\Users\Oscar\source\repos\FormParcial\FormParcial\obj\Debug\net8.0-windows\FormParcial.csproj.GenerateResource.cache
+C:\Users\Oscar\source\repos\FormParcial\FormParcial\obj\Debug\net8.0-windows\FormParcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar\source\repos\FormParcial\FormParcial\obj\Debug\net8.0-windows\FormParcial.AssemblyInfoInputs.cache
+C:\Users\Oscar\source\repos\FormParcial\FormParcial\obj\Debug\net8.0-windows\FormParcial.AssemblyInfo.cs
+C:\Users\Oscar\source\repos\FormParcial\FormParcial\obj\Debug\net8.0-windows\FormParcial.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\source\repos\FormParcial\FormParcial\obj\Debug\net8.0-windows\FormParcial.dll
+C:\Users\Oscar\source\repos\FormParcial\FormParcial\obj\Debug\net8.0-windows\refint\FormParcial.dll
+C:\Users\Oscar\source\repos\FormParcial\FormParcial\obj\Debug\net8.0-windows\FormParcial.pdb
+C:\Users\Oscar\source\repos\FormParcial\FormParcial\obj\Debug\net8.0-windows\FormParcial.genruntimeconfig.cache
+C:\Users\Oscar\source\repos\FormParcial\FormParcial\obj\Debug\net8.0-windows\ref\FormParcial.dll
+C:\Users\Oscar\source\repos\FormParcial\FormParcial\obj\Debug\net8.0-windows\FormParcial.Properties.Resources.resources

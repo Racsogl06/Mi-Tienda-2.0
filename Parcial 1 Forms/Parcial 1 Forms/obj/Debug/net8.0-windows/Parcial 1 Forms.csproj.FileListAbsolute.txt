@@ -1,0 +1,6 @@
+C:\Users\Oscar\source\repos\Parcial 1 Forms\Parcial 1 Forms\obj\Debug\net8.0-windows\Parcial_1_Forms.Form1.resources
+C:\Users\Oscar\source\repos\Parcial 1 Forms\Parcial 1 Forms\obj\Debug\net8.0-windows\Parcial 1 Forms.csproj.GenerateResource.cache
+C:\Users\Oscar\source\repos\Parcial 1 Forms\Parcial 1 Forms\obj\Debug\net8.0-windows\Parcial 1 Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar\source\repos\Parcial 1 Forms\Parcial 1 Forms\obj\Debug\net8.0-windows\Parcial 1 Forms.AssemblyInfoInputs.cache
+C:\Users\Oscar\source\repos\Parcial 1 Forms\Parcial 1 Forms\obj\Debug\net8.0-windows\Parcial 1 Forms.AssemblyInfo.cs
+C:\Users\Oscar\source\repos\Parcial 1 Forms\Parcial 1 Forms\obj\Debug\net8.0-windows\Parcial 1 Forms.csproj.CoreCompileInputs.cache

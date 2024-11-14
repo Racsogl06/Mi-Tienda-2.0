@@ -1,0 +1,6 @@
+C:\Users\Oscar\source\repos\FormularioContacto\FormularioContacto\obj\Debug\net8.0-windows\FormularioContacto.Form1.resources
+C:\Users\Oscar\source\repos\FormularioContacto\FormularioContacto\obj\Debug\net8.0-windows\FormularioContacto.csproj.GenerateResource.cache
+C:\Users\Oscar\source\repos\FormularioContacto\FormularioContacto\obj\Debug\net8.0-windows\FormularioContacto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar\source\repos\FormularioContacto\FormularioContacto\obj\Debug\net8.0-windows\FormularioContacto.AssemblyInfoInputs.cache
+C:\Users\Oscar\source\repos\FormularioContacto\FormularioContacto\obj\Debug\net8.0-windows\FormularioContacto.AssemblyInfo.cs
+C:\Users\Oscar\source\repos\FormularioContacto\FormularioContacto\obj\Debug\net8.0-windows\FormularioContacto.csproj.CoreCompileInputs.cache
